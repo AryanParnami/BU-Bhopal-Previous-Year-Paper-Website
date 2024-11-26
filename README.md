@@ -6,4 +6,4 @@
 
 ![N-Queen-visualisation](visualisation.gif)
 
-**<p align='center'>You can find the website live <a href="https://ajeetsoni2002.github.io/busite.github.io/">here</a></p>**
+**You can find our website live [here](https://barkatullahpapers.site/)**
