@@ -6,4 +6,4 @@
 
 ![N-Queen-visualisation](visualisation.gif)
 
-**You can find our website live [here](https://barkatullahpapers.site/)**
+**You can find our website live [here](https://ajeetsoni2002.github.io/livebusite/)**
